@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+    height: 55px;
+    background-color: #444444;
+}
+
+.logo{
+    font-size: 2rem;
+    color: #DA0037;
+    display: inline-block;
+    padding: 5px 0 0 10px;
 }
